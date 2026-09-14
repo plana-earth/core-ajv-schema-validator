@@ -301,6 +301,5 @@ const _validateSchemaAJV = (schema, data, issuesStyles) => {
  * console.log(randomString); // Output: "3hj7k9da1e"
  */
 const _random = () => {
-    return Math.random().toString(36).substring(10)
-
+    return "r" + Math.random().toString(36).substring(9)
 }
