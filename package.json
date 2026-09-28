@@ -26,7 +26,7 @@
   "homepage": "https://github.com/sclavijosuero/core-ajv-schema-validator#readme",
   "dependencies": {
     "@types/node": "^22.13.5",
-    "ajv": "^8.17.1",
+    "ajv": "^8.20.0",
     "ajv-formats": "^3.0.1",
     "lodash": "^4.17.21"
   },
